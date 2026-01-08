@@ -1,15 +1,11 @@
 # Pokémon Battle Game
 
-A simple 2D Pokémon battle simulation game built with React. Battle against AI-controlled Pokémon with turn-based mechanics, animations, and sound effects!
+A simple 2D Pokémon battle simulation game built with React. Battle against AI-controlled Pokémon with turn-based mechanics, animations!
 
 ## Features
 
 - 🎮 Turn-based battle system
-- 🎨 Beautiful UI with animations
-- 🎵 Sound effects for attacks and battles
-- 🤖 AI-controlled opponent
-- 📱 Responsive design for mobile and desktop
-- 🎯 Multiple attack moves
+- 🎯 Multiple attack moves (but its now limited)
 - 🏆 Victory/Defeat screens
 - 🔄 Play again functionality
 
@@ -20,16 +16,11 @@ A simple 2D Pokémon battle simulation game built with React. Battle against AI-
    ```bash
    npm install
    ```
-3. Add sound effects to the `public/sounds` directory:
-   - `attack.mp3`
-   - `hit.mp3`
-   - `victory.mp3`
-   - `defeat.mp3`
-4. Start the development server:
+3. Start the development server:
    ```bash
    npm run dev
    ```
-5. Open your browser and navigate to `http://localhost:5173`
+4. Open your browser and navigate to `http://localhost:5173`
 
 ## How to Play
 
