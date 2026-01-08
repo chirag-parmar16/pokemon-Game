@@ -34,7 +34,6 @@ A simple 2D Pokémon battle simulation game built with React. Battle against AI-
 
 - React
 - Styled Components
-- Howler.js (for sound effects)
 - PokeAPI (for Pokémon data)
 - Vite
 
