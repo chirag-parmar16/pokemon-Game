@@ -1,6 +1,6 @@
 {
   "projectName": "pokemon-battle",
-  "gitRepo": "https://github.com/chirag-parmar16/pokemon-Game.git",
+  "gitRepo": "https://github.com/chirag-parmar16/portfolio.git",
   "domain": "pokemon-simulation.chirag-dev.online",
   "appType": "vite",
   "deploymentType": "docker",
