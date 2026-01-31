@@ -21,4 +21,4 @@ RUN npm run build
 EXPOSE 3000
 
 # Start Command
-CMD ["npx","-y","serve","-s","dist","-l","3000"]
+CMD ["npx","-y","serve","-s","dist","-l","tcp://0.0.0.0:3000"]
