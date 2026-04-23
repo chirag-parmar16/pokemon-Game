@@ -1,0 +1,7 @@
+{
+  "projectType": "react",
+  "targetDomain": "pokemon-battel-simulator",
+  "startupTimeout": 30000,
+  "recordingEnabled": true,
+  "debugMode": false
+}
